@@ -1,0 +1,6 @@
+.alert {
+    box-sizing: content-box;
+    background: rgba(247, 72, 72, 0.76);
+    width: 86%;
+    padding: 0.5rem 0.5rem;
+}
